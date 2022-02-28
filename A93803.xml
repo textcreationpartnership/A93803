@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir Phillip Stapleton his worthy speech in the House of Commons in Parliament, Ian. 15. 1641. Concerning the accusation of the Lord Digby and Colonell Lunsford of high treason.</title>
+            <author>Stapleton, Philip, Sir, 1603-1647.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93803</idno>
+            <idno type="STC">Wing S5258</idno>
+            <idno type="STC">Thomason E200_11</idno>
+            <idno type="STC">ESTC R14997</idno>
+            <idno type="EEBO-CITATION">99859781</idno>
+            <idno type="PROQUEST">99859781</idno>
+            <idno type="VID">157552</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93803)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157552)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E200[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir Phillip Stapleton his worthy speech in the House of Commons in Parliament, Ian. 15. 1641. Concerning the accusation of the Lord Digby and Colonell Lunsford of high treason.</title>
+                  <author>Stapleton, Philip, Sir, 1603-1647.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page contains device of star with two layers of five points each.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bristol, John Digby, --  Earl of, 1580-1654.</term>
+               <term>Lunsford, Thomas, --  Sir, 1610?-1653?</term>
+               <term>Treason --  England --  Early works to 1800.</term>
+               <term>Speeches, addresses, etc., English --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157552:1" rendition="simple:additions"/>
+            <p>SIR PHILLIP STAPLETON HIS WORTHY SPEECH In the Houſe of COMMONS in PARLIAMENT, <hi>Ian.</hi> 15. 1641.</p>
+            <p>Concerning the Accuſati<g ref="char:EOLhyphen"/>on of the Lord <hi>DIGBY</hi> and Colonell LVNSFORD of High Treaſon.</p>
+            <p>
+               <hi>London,</hi> Printed for JOHN THOMAS, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:157552:2"/>
+            <pb facs="tcp:157552:2"/>
+            <head>Sir <hi>Philip Stapleton</hi> his Speech in Parliament the 5. of <hi>Ian.</hi> 1641, Concer<g ref="char:EOLhyphen"/>ning the Accuſation of High Treaſon of Colonell <hi>Lunsford</hi> and the Lord <hi>Digby.</hi>
+            </head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Mr. <hi>Speaker,</hi>
+                     </salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">I</seg>T is the continuall practice of the Divell after any of his workes of darkneſſe and maliciouſneſſe intended a<g ref="char:EOLhyphen"/>gainſt God and his Chriſt, is diſcovered and annihilated by the ſpeciall power of Divine Providence, to pra<g ref="char:EOLhyphen"/>ctice new, being alwaies ſtri<g ref="char:EOLhyphen"/>ving to encreaſe his owne Kingdome, alwaies win<g ref="char:EOLhyphen"/>ning to himſelfe freſh Inſtruments to yeeld to his ſuggeſtions and temptations and execute the ſame.</p>
+                  <p>I am now to ſpeake concerning this new treche<g ref="char:EOLhyphen"/>ry and Conſpiracy endeavoured to be practiſed by two eminent perſons, that have eſpecially the one of them, obtained the favour no tonely of their Prince, but applauded for their better parts by moſt of his Majeſties Subjects, the Lord <hi>Digby</hi> and Col. <hi>Lunsford;</hi> The firſt had the Honour to fit in this Houſe as a Member thereof, ſo well approved was he both of his King and Country, none more fervent
+<pb facs="tcp:157552:3"/>againſt evill doers at the firſt then himſelfe ſeemed to be both by his Speeches and diſputes, but in heart alwayes as it ſeemes favouring the Biſhops, and their cauſe, although it ſeemed but a litle, yet increa<g ref="char:EOLhyphen"/>ſing dayly more and more, grew to ſuch ſtrength in his opinion concerning his own worth, that he adven<g ref="char:EOLhyphen"/>tured to take part with the Earle of <hi>S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>raford,</hi> truſting too much on the ſame, ſo high is pride, that <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t length he preſumed to oppoſe and ſet himſelf againſt the proceedings of the whole Houſe, againſt the ſaid Earle, obſtinately r fuſing to be admoniſhed concerning the ſame, and yet keeping his friends, many of the Lords, was by his Majeſty as a Baron called to their houſe, and aſpiring yet higher, obtai<g ref="char:EOLhyphen"/>ned his Princes favour not being yet acquainted with his ſecret intentions, by which meanes, too confi<g ref="char:EOLhyphen"/>dent of his ſafety, and ſecurity in his deſigns, adven<g ref="char:EOLhyphen"/>tured openly to comply with the publique Enemies both of King, and Country, as eſpecially now with this other perſon of whom <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am to ſpeake, this Colo<g ref="char:EOLhyphen"/>nell, being by his Majeſty advanced to that dignity and truſt, could not to content himſelfe, but immi<g ref="char:EOLhyphen"/>tating the water Toade, ſeeing the ſhaddow of a horſe ſeeme bigger then it ſelfe, ſweld, to compare with the ſame, and ſo bur<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> even ſo this Gentleman having obtained firſt this place of Command, and afterwards Lievtenant of the <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, and being found of ſuch a malignont <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> was unfit and uncapable for that great <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> and therefore removed, taking the ſame a great diſhonor to his worth, now
+<pb facs="tcp:157552:3"/>endeavours by trayterous and deſperate a<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tions, to defend himſelfe, and be revenged of his pre<g ref="char:EOLhyphen"/>tended adverſaries, and to that purpoſe they have be<g ref="char:EOLhyphen"/>tweene them joyntly rayſed armes againſt the State, met together in peaceable conſultations for the good of Church and Common wealth.</p>
+                  <p>Mr. <hi>Speaker.</hi>
+                  </p>
+                  <p>Theſe attempts made by theſe perſons are of dan<g ref="char:EOLhyphen"/>gerous conſequence, and this their inſurrection by taking up of Armes without warrant both from his Royall Majeſty and this High Court of Parliament, onely to doe miſchiefe in raiſing ſedition and contention thereby to preſerve themſelves from be<g ref="char:EOLhyphen"/>ing called to an account for their deſperate actions, and diſloyall taking up Armes, will prove harder to appeaſe and ſuppreſſe then any troubles we have yet ſuffered.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Mr. Speaker,</salute>
+                  </opener>
+                  <p>I conceive quick diſpatch in our intentions for the apprehending and ſuppreſſing theſe perſons, is the onely meanes to prevent future danger; And to that purpoſe I deſire to preſent to your conſide<g ref="char:EOLhyphen"/>rations theſe particulars.</p>
+                  <p n="1">1. That Warrants may iſſue forth for the ſpeedy and private apprehending of them in what places ſoever they ſhall be found, and immediately to bring them before the Houſe.</p>
+                  <pb facs="tcp:157552:4"/>
+                  <p n="2">2. If this cannot be effected, to Iſſue forth Pro<g ref="char:EOLhyphen"/>clamations for their calling in within a certaine time prefixed, under penalty of being proſecuted and pro<g ref="char:EOLhyphen"/>ceeded againſt as Traytors to their King, and Coun<g ref="char:EOLhyphen"/>try.</p>
+                  <p n="3">3. That warrants be forthwith ſent for the gaur<g ref="char:EOLhyphen"/>ding and ſecuring of all the Ports of this Kingdome, and for the intercepting of all Packets, or Letters intended to be coveighd into Farraign Kingdomes or any brought from thence hither.</p>
+                  <p n="4">4. That Order be ſent downe into the ſeverall Counties of this Kingdome, where it is ſuſpected either of theſe perſons have any Freinds, or Favorites well-wiſhers to their cauſe, with command to the <hi>Sheriffes,</hi> and ſeverall Officers of ſuch Counties to ſtand upon their guard, and to rayſe Force for their owne defence and ſaiety, and to endeavour by all meanes poſſible to apprehend and ſuppreſſe them and ſuch of their Conſpiracy as ſhall be taken, pre<g ref="char:EOLhyphen"/>ſently to be ſent up to this houſe to be examined and proſcecuted according as they ſhall be found.</p>
+                  <p n="5">5. That order may be made by the Parliament that no Officer that ſhall be found to have a hand in this plot, may be imployed in any ſervice of publique Command, either for <hi>Ireland,</hi> or any otther of his Majeſties Dominions, or any private affaires of this Kingdome.</p>
+                  <p n="6">6. That we may with out further delay proceed to ſentence againſt all delinquents by this Honorable houſe accuſed for any crime whatſoever, in whoſe d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>fence, or for whoſe cauſe theſe perſons now accuſed pretend to take up Armes.</p>
+                  <pb facs="tcp:157552:4"/>
+                  <p n="7">7. That his Majeſty may be moved graciouſly to be pleaſed to declare himſelfe againſt theſe per<g ref="char:EOLhyphen"/>ſons and all others that doe any wayes pretend to his authority or warrant for what they doe.</p>
+                  <p n="8">8. And laſtly, his Majeſty may be moved to a<g ref="char:EOLhyphen"/>vert his intended Journey for <hi>Portſmouth,</hi> for the ſafety and ſecurity of his Royall Perſon, till ſuch time as their dangers be removed, and the Peace and Vnity of all his Majeſties Loyall Subjects be pro<g ref="char:EOLhyphen"/>cured and ſetled.</p>
+                  <p>And thus Mr. Speaker, having preſented ſuch things to this Houſe, which I humbly conceive to be neceſſary to ſuppreſſe and prevent this new danger threatned by theſe two diſaffected and Male<g ref="char:EOLhyphen"/>contented perſons, the Lord <hi>Digby</hi> and Colonell <hi>Lunsford,</hi> I leave the ſame to the further conſidera<g ref="char:EOLhyphen"/>tion of this Honourable Houſe, deſiring from my heart, that it would pleaſe God to end all the trou<g ref="char:EOLhyphen"/>bles and diſtempers of this Common-wealth, and that this High Court of PARLIAMENT may prove the firme ſettlement of all things amiſſe both in Church and State.</p>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
